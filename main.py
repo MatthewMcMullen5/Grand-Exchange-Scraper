@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+# Change this to search for different items, or allow for input
 item_search = "Blue partyhat"
 item = ""
 
